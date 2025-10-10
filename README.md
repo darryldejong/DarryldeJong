@@ -11,12 +11,12 @@
 
 <img align="right" width="150px" alt="Manetric" src="Images/manectric.gif"/>
 
-<img src="Images/dragonite.gif" alt="Dragonite" style="width: 200px;"> I am an IT engineer with a background in ***technical support***. I work on setting up, troubleshooting, and managing various systems and devices, including networks, hardware, and software, to ensure everything works correctly, while also enjoying creating fun and creative projects.
+<img src="Images/dragonite.gif" alt="Dragonite" style="width: 200px;"> I’m an IT enthusiast with a background in ***technical support***. I work on setting up, troubleshooting, and managing various systems and devices, including networks, hardware, and software, to ensure everything works correctly, while also enjoying creating fun and creative projects.
 
 Visit my portfolio website: [https://darryldejong.nl/](https://darryldejong.nl/)
 
 - 📚 I’m currently learning:
-  - IT support and technical troubleshooting.
+  - Cloud infrastructure and security.
 - Besides coding, I enjoy playing video games 🎮 and playing sports.
 - 📫 Reach out to me at: [darryldjong@gmail.com](mailto:darryldjong@gmail.com)
 
